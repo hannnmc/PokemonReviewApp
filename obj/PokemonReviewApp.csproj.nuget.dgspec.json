@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hanmi\\source\\repos\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj": {}
+    "C:\\Users\\STUser\\source\\repos\\PokemonReviewApp\\PokemonReviewApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hanmi\\source\\repos\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj": {
+    "C:\\Users\\STUser\\source\\repos\\PokemonReviewApp\\PokemonReviewApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hanmi\\source\\repos\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+        "projectUniqueName": "C:\\Users\\STUser\\source\\repos\\PokemonReviewApp\\PokemonReviewApp.csproj",
         "projectName": "PokemonReviewApp",
-        "projectPath": "C:\\Users\\hanmi\\source\\repos\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
-        "packagesPath": "C:\\Users\\hanmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hanmi\\source\\repos\\PokemonReviewApp\\PokemonReviewApp\\obj\\",
+        "projectPath": "C:\\Users\\STUser\\source\\repos\\PokemonReviewApp\\PokemonReviewApp.csproj",
+        "packagesPath": "C:\\Users\\STUser\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\STUser\\source\\repos\\PokemonReviewApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hanmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\STUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -80,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
